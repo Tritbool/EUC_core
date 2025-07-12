@@ -1,16 +1,20 @@
-field | data
-Wheel diameter       | 18 inches                     
-Dimensions           | 457 x 530 x 178 mm (L x W x H)
-Controller position  | side                          
-Tire dimension       | 18 inches, 4.1 inches wide    
-RGB                  | Yes                           
-Water rating         | IP 54                         
-Max. Load            | 150 kg                        
-Net weight           | 24 kg                         
-Range                | 90 km                         
-Max speed            | 45 km/h                       
-Motor power          | 1800 W                        
-Battery              | 995 Wh                        
-Tension              | 58.8 V                        
-Battery architecture | 14s6p                         
-Cells                | LG MH1 (18650) li-ion         
+Field|Data
+Wheel diameter| 22 inches                     
+Dimensions| 560 x 330 x 780 mm (L x W x H)
+Pedal height| 195 - 275 mm
+Controller position| Top                          
+Tire dimension| 2.75 R17
+Tubeless| No 
+RGB| No                           
+Water rating| NONE   
+Suspension| 80 mm, air shock 
+Max. Load| 120 kg                        
+Net weight| 53.5 kg
+Trolley| Included, Central
+Range| 150-200 km                         
+Max speed| 122 km/h                       
+Motor power| 4500 W                        
+Battery| 4800 Wh                        
+Tension| 134.4 V                        
+Battery architecture| 32s8p                         
+Cells| SAMSUNG 50E (21700) li-ion         
