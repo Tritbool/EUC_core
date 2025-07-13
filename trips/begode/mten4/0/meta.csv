@@ -1,0 +1,2 @@
+wheel,brand,year,app,trip_type,rider_weight,tire_pressure,temperature,wind,rain
+mten4,begode,2022,wheel_log,2,85,2.5,20,low,False
