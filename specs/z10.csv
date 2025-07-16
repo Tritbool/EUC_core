@@ -20,4 +20,5 @@ Motor power| 1800 W
 Battery| 995 Wh                        
 Tension| 58.8 V                        
 Battery architecture| 14s6p                         
-Cells| LG MH1 (18650) li-ion         
+Cells| LG MH1 (18650) li-ion
+Smart BMS| No

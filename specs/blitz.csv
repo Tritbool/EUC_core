@@ -20,4 +20,5 @@ Motor power| 3500 W
 Battery| 2400 Wh                        
 Tension| 134.4 V                        
 Battery architecture| 32s4p                         
-Cells| SAMSUNG 50S (21700) li-ion         
+Cells| SAMSUNG 50S (21700) li-ion
+Smart BMS| Yes    

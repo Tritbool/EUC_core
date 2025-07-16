@@ -20,4 +20,5 @@ Motor power| 1000 W
 Battery| 750 Wh                        
 Tension| 84 V                        
 Battery architecture| 20s2p                         
-Cells| SAMSUNG 50E (21700) li-ion         
+Cells| SAMSUNG 50E (21700) li-ion
+Smart BMS| No
