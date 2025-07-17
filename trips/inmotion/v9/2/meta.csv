@@ -1,0 +1,2 @@
+wheel,brand,year,app,trip_type,rider_weight,tire_pressure,temperature,wind,rain
+v9,inmotion,2024,euc_world,0,81,2.4,20,mid,False
