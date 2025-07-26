@@ -1,0 +1,2 @@
+wheel,brand,year,app,trip_type,rider_weight,tire_pressure,temperature,wind,rain
+master_pro_V2,begode,2022,euc_world,0,84,2.7,25,mid,False
