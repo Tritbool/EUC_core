@@ -1,0 +1,2 @@
+wheel,brand,year,app,trip_type,rider_weight,tire_pressure,temperature,wind,rain
+extreme_C36,begode,2024,euc_world,2,90,2.4,10,mid,True
