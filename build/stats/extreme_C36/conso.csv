@@ -1,0 +1,2 @@
+trip_id,initial_battery_kwh,end_batt_lvl_pct,end_batt_voltage,estimated_end_batt_lvl_pct,conso_kwh,regen_kwh,conso_corrected_kwh,average_wh/km,voltage_sag_coeff
+0,2.352,62,122.3,75.0,0.58,-0.02,0.56,33.82,-0.354
